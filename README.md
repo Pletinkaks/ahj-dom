@@ -1,1 +1,1 @@
-# ahj-dom
+Собранное домашнее задание на Github Pages: https://pletinkaks.github.io/ahj-dom/
